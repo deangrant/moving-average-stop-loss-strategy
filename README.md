@@ -1,0 +1,1 @@
+# moving-average-stop-loss-strategy
